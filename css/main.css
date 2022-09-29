@@ -71,13 +71,13 @@ form button {
 }
 
 .skip {
-  position: absolute;
+  position: static;
   top: auto;
   /* width: 160px;
   height: 30px; */
   overflow: hidden;
-  background-color: black;
-  color: white;
+  /* background-color: black;
+  color: white; */
   padding: 8px;
 }
 
